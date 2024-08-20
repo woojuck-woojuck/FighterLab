@@ -1,1 +1,2 @@
 # second-repository
+## git config
